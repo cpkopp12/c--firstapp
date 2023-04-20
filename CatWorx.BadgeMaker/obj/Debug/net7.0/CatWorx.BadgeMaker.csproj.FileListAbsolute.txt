@@ -1,0 +1,15 @@
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/bin/Debug/net7.0/CatWorx.BadgeMaker
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/bin/Debug/net7.0/CatWorx.BadgeMaker.deps.json
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/bin/Debug/net7.0/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/bin/Debug/net7.0/CatWorx.BadgeMaker.dll
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/bin/Debug/net7.0/CatWorx.BadgeMaker.pdb
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.dll
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/refint/CatWorx.BadgeMaker.dll
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.pdb
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/CatWorx.BadgeMaker.genruntimeconfig.cache
+/Users/cameronkopp/Desktop/git_repos/csharp/c--firstapp/CatWorx.BadgeMaker/obj/Debug/net7.0/ref/CatWorx.BadgeMaker.dll
