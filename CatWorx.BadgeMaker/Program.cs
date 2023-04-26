@@ -5,9 +5,9 @@ namespace CatWorx.BadgeMaker
 {
   class Program
   {
-    static List<string> GetEmployees()
+    static List<Employee> GetEmployees()
     {
-        List<string> employees = new List<string>();
+        List<Employee> employees = new List<Employee>();
         
         while (true)
         {
@@ -18,22 +18,22 @@ namespace CatWorx.BadgeMaker
                 break;
             }
             Employee currentEmployee = new Employee(input, "smilth");
-            employees.Add(currentEmployee.GetFullName());    
+            employees.Add(currentEmployee);    
         }
         return employees;
     }
 
-    static void PrintEmployees(List<string> nameList) 
+    static void PrintEmployees(List<Employee> employeeList) 
     {
-        for (int i = 0; i < nameList.Count; i++)
+        for (int i = 0; i < employeeList.Count; i++)
         {
-            Console.WriteLine(nameList[i]);
+            Console.WriteLine(employeeList[i].GetFullName());
         }
     }
 
     static void Main(string[] args)
     {
-        List<string> employeeList = GetEmployees();
+        List<Employee> employeeList = GetEmployees();
         
         PrintEmployees(employeeList);
 
