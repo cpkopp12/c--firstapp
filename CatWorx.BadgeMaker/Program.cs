@@ -29,20 +29,12 @@ namespace CatWorx.BadgeMaker
         return employees;
     }
 
-    static void PrintEmployees(List<Employee> employeeList) 
-    {
-        for (int i = 0; i < employeeList.Count; i++)
-        {
-            string template = "{0,-10}\t{1,-20}\t{2}";
-            Console.WriteLine(String.Format(template, employeeList[i].GetId(), employeeList[i].GetFullName(), employeeList[i].GetPhotoUrl()));
-        }
-    }
-
     static void Main(string[] args)
     {
         List<Employee> employeeList = GetEmployees();
         
-        PrintEmployees(employeeList);
+        Util.PrintEmployees(employeeList);
+        Util.MakeCSV(employeeList);
 
     }
   }
